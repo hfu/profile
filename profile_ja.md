@@ -1,11 +1,9 @@
 藤村　英範（ふじむら　ひでのり）
 
-Director, Information Access Division
+国土交通省　国土地理院　地理空間情報部　情報普及課長
 
-Geospatial Information Authority of Japan
+国土地理院は、我が国唯一の国家地理空間情報当局として、測量法と地理空間情報活用推進基本法に基づき、地理空間情報の整備・更新・活用を推進することにより、誰もがいつでもどこでも地理空間情報を入手し行動できる「地理空間情報高度活用社会」の実現に向けて日々取り組んでいます。
+国土地理院では、タイル方式のウェブ地図「地理院地図」（http://maps.gsi.go.jp/ ）を2003年から継続的に運用しており、地形図や空中写真、主題図等の様々なデータを、政府オープンデータ戦略に基づくオープンデータ「地理院タイル」として提供しています。
+また、災害対策基本法の指定行政機関として、被災前後の状況や地殻変動の情報等の災害情報も可能な限りタイムリーに地理院地図から提供しています。
 
-Director of a division of the National Geospatial Information Authority of Japan, the only national organization that conducts basic survey and mapping and instructs related organizations to clarify the conditions of land in Japan and that provides the results of surveys to promote the application of geospatial information, including further survey and mapping in municipal level.
-
-His division has been operating a tile-based web map site titled “GSI Maps” (http://maps.gsi.go.jp/) since 2003. GSI Maps has been providing topographic maps, orthophotos, control point information, thematic maps so on, as GSI Tiles, open data in line with the open data strategy of the Government of Japan. GSI Maps are also used to share disaster information, such as conditions of land after and before disasters such as earthquakes, tsunamis, landslides, flood, volcano eruptions and so on, and are used for disaster relief. These days he is especially interested in vector tiles and open innovation, to increase the societal value of the service he engaged in.
-
-Hidenori received his Master’s degree in Mathematical Engineering and Information Physics from the University of Tokyo.
+情報普及課では、地理院タイルの活用を推進するための3つの施策としてオープンデータ施策、オープンソース施策、オープンイノベーション施策を掲げており、地理院地図の今後を方向づける技術として標高タイル、ベクトルタイル、デジタルファブリケーションを掲げています。具体的には、地理院タイルのダウンロード利用の推進や、ベクトルタイルの提供実験等、技術的な提案を積極的に実施しています。
