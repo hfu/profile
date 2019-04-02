@@ -1,3 +1,4 @@
+## GitHub Universe (2015)
 HIDENORI FUJIMURA
 
 Director, Information Access Division
@@ -10,3 +11,8 @@ His division has been operating a tile-based web map site titled “GSI Maps” 
 GSI Maps are also used to share disaster information, such as conditions of land after and before disasters such as earthquakes, tsunamis, landslides, flood, volcano eruptions and so on, and are used for disaster relief. These days he is especially interested in vector tiles and open innovation, to increase the societal value of the service he is engaged in.
  
 Hidenori received his Master’s degree in Mathematical Engineering and Information Physics from the University of Tokyo.
+
+## FOSS4G Asia 2018
+Hidenori Fujimura
+
+Hidenori Fujimura is the lead of optimal vector tile project of the United Nations Open Geographic Information System Initiative (UN Open GIS Initiative). As a geospatial digital service enthusiast inside the government, since 2013 he has managed GSI Maps, a product of Geospatial Information Authority of Japan (GSI) to provide its geospatial data following the governmental Open Data policy, making full use of Open Source software. In 2017 he moved to the United Nations Geospatial Information Section, and initiated a project to mainstream basemap vector tiles within public organizations. He believes in the power of performance and interoperability.
