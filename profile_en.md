@@ -16,3 +16,12 @@ Hidenori received his Master’s degree in Mathematical Engineering and Informat
 Hidenori Fujimura
 
 Hidenori Fujimura is the lead of optimal vector tile project of the United Nations Open Geographic Information System Initiative (UN Open GIS Initiative). As a geospatial digital service enthusiast inside the government, since 2013 he has managed GSI Maps, a product of Geospatial Information Authority of Japan (GSI) to provide its geospatial data following the governmental Open Data policy, making full use of Open Source software. In 2017 he moved to the United Nations Geospatial Information Section, and initiated a project to mainstream basemap vector tiles within public organizations. He believes in the power of performance and interoperability.
+
+## ESCAP webinar
+Oki Shoichi
+
+Oki Shoichi is Co-Chair of the UN-GGIM Working Gruop on Geospatial Information and Services for Disasters (WG-Disasters). He also serves to the Regional Committee of United Nations Global Geospatial Information Management for Asia and the Pacific (UN-GGIM-AP) as Vice-President, too. He has been serving to the Geospatial Information Authority of Japan (GSI) for years and is currently Director-General of Geodetic Department. 
+
+Fujimura Hidenori
+
+Hidenori is Executive Officer for Geospatial Information Policy, GSI. He is contributing to various UN geospatial collaborations as Lead of the Task Group B of WG-Disasters (scenario-based exercise), Vice-chair of UN-GGIM-AP WG-3 (integrating geospatial information and statistics), and Co-Lead of United Nations Vector Tile Toolkit under WG-4 of the UN Open GIS Initiative. He believes in the power of performance and interoperability in promoting geospatial data sharing. 
